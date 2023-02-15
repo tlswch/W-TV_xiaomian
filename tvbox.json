@@ -13,7 +13,11 @@
 
 "sites":[
 
-{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://agit.ai/W-TV/xiaomian/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/W-TV/xiaomian/raw/branch/master/js/豆瓣.js"},
+
+{"key":"T4_douban","name":"🔍影视推荐","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -26,8 +30,6 @@
 {"key":"csp_Cokemv","name":"Cokemv〔SP〕","type":"3","api":"csp_Cokemv","searchable":"1","quickSearch":"1","filterable":"1"},
 
 {"key":"Cokemv","name":"Cokemv〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"./jar/cs.jar"},
-
-{"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP2345","name":"2345影视〔SP〕","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 
