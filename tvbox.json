@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/Yoursmile.jar",
+"spider":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/Yoursmile.jar;md5;CADE5CC7CDCD94DCBE34D657C0375068",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://agit.ai/W-TV/xiaomian/raw/branch/master/tv/live.txt"]}]}],
 "wallpaper":"",
 
