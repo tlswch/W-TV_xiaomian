@@ -1,7 +1,7 @@
 {
 "spider":"https://agit.ai/W-TV/xiaomian/raw/branch/master/jar/Yoursmile.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://agit.ai/W-TV/xiaomian/raw/branch/master/tv/live.txt"]}]}],
+"wallpaper":"",
 
 "sites":[
 
