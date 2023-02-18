@@ -56,13 +56,9 @@
 
 {"key":"csp_fantuan","name":"💘饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
-{"key":"csp_555","name":"💘555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-
-{"key":"Tian","name":"💘天天影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key":"csp_Zxzj","name":"💘在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"BuLei","name":"💘布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
-
-{"key":"csp_Xinsj","name":"💘新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 
 {"key":"csp_panghu","name":"💘胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -76,11 +72,9 @@
 
 {"key":"csp_Auete","name":"💘奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Zxzj","name":"💘在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Lgyy","name":"💘蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv"},
-
 {"key":"csp_Bd","name":"💘哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Xinsj","name":"💘新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 
 {"key":"csp_Bttoo","name":"💘两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
