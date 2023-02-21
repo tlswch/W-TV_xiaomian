@@ -12,7 +12,9 @@
 
 "sites":[
 
-{"key":"WX〕","name":"💘｜微信公众号：【免软资源】","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"WX","name":"💘｜微信公众号：【免软资源】","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+
+{"key":"","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"dr_豆瓣","name":"🔍｜豆瓣荐片｜JS","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/js/豆瓣.js"},
 
