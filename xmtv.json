@@ -24,7 +24,7 @@
 
 {"key":"T4_douban","name":"🔍｜影视推荐｜T4","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"dr_YS","name":"💘 ↓ 影视观看线路 ↓ 💘","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_YS","name":"↓ 影视观看线路 ↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"dr_YS2","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
@@ -70,11 +70,11 @@
 
 {"key":"csp_Bttoo","name":"💘｜两个BT｜SP","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"dr_JY","name":"💘 ↓ 学习教育线路 ↓ 💘","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_JY","name":"↓ 学习教育线路 ↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"dr_JY2","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"dr_dm","name":"💘 ↓ 直播动漫线路 ↓ 💘","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_dm","name":"↓ 直播动漫线路 ↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"dr_dm2","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
@@ -90,7 +90,7 @@
 
 {"key":"dr_G","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"dr_wp","name":"💘 ↓ 阿里云盘线路 ↓ 💘","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_wp","name":"↓ 阿里云盘线路 ↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"dr_wp2","name":"","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
