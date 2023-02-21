@@ -44,7 +44,7 @@
 
 {"key":"csp_Zxzj","name":"💘在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_panghu","name":"💘胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_panghu","name":"💘胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xBPQ/胖虎影视.json"},
 
 {"key":"csp_Ysgc","name":"💘影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 
