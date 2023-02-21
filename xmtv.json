@@ -16,13 +16,13 @@
 
 {"key":"T4_douban","name":"🔍影视推荐","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_LiteApple","name":"💘|小苹果|SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"💘｜小苹果｜SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_YQKAPP","name":"💘|一起看|SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_YQKAPP","name":"💘｜一起看｜SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
-{"key":"csp_Czsapp","name":"💘|厂长资源|SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"💘｜厂长资源｜SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Kunyu77","name":"💘|酷云七七|SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"💘｜酷云七七｜SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ_LIBVIO","name":"💘LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/LIBVIO.json"},
 
