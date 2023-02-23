@@ -1,51 +1,102 @@
-📺｜央视频道,#genre#
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+📺｜4K频道,#genre#
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV16-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+爱上-4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+超高清电影-4K,http://159.75.85.63:5681/sxg.php
+爱自然-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+loupe-4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Clarity-4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
-CCTV4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV16-4K25P-SDR源,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-4K超高清电影,http://159.75.85.63:5681/sxg.php
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-1,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-2,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Astro Super Sport 4K-1,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-Astro Super Sport 4K-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
-Astro Super Sport 4K-3,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
-Now Sports UHD HK-1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-Now Sports UHD HK-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-Now Sports UHD HK-3,http://clientsportals.com:2095/d4Je5xwD/yadTXB63/117957
-V Sports UHD,http://clientsportals.com:2095/d4Je5xwD/yadTXB63/114242
-V Sports UHD备,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
-BeIN Sports 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-RTL UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
-Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
-ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
-Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-TRT 4k备,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
-DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Sky Sport UHD,http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
+CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+CCTV4 8M,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5 8M,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+CCTV5+ 8M,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6 8M,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7 8M,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8 8M,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9 8M,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10 8M,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11 8M,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12 8M,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+CCTV13 8M,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14 8M,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15 8M,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16 8M,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+江苏卫视 8M,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+广西卫视 8M,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+四川卫视 8M,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+湖南卫视 8M,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视 8M,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+东方卫视 8M,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+北京卫视 8M,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+天津卫视 8M,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视 8M,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视 8M,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视 8M,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+广东卫视 8M,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视 8M,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+湖北卫视 8M,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
+吉林卫视 8M,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+山东卫视 8M,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+江西卫视 8M,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+河南卫视 8M,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+河北卫视 8M,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视 8M,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+重庆卫视 8M,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+东南卫视 8M,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+云南卫视 8M,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视 8M,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+海南卫视 8M,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场 8M,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+快乐垂钓 8M,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+金鹰纪实 8M,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+戏曲精选 8M,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+上海第一财经 8M,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+上视新闻 8M,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+上海都市 8M,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+上海纪实 8M,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+东方影视 8M,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+五星体育 8M,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+上视外语 8M,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+七彩戏剧 8M,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+上海教育 8M,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+全纪实 8M,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+生活时尚 8M,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+新视觉 8M,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+游戏风云 8M,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+热门综艺 8M,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+健康养生 8M,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+百变课堂 8M,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+看天下精选 8M,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+电竞天堂 8M,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+青春动漫 8M,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+宝宝动画 8M,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+星光影院 8M,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+谍战剧场 8M,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+全球大片 8M,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+热门剧场 8M,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+陶瓷高清 8M,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+中国教育-1 8M,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
+中国教育-4 8M,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿 8M,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+纪实科教 8M,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
+茶频道 8M,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
+足球高清 8M,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+炫动卡通 8M,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+东方财经 8M,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+都市剧场 8M,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+动漫秀场 8M,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
