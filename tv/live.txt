@@ -1,2 +1,3 @@
 📺｜央视频道,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
