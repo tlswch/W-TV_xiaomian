@@ -104,3 +104,4 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 📺｜测试源,#genre#
 测试,http://210.210.155.35/uq2663/h/h143/index.m3u8
+清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
