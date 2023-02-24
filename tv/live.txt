@@ -1,18 +1,18 @@
 
 📺｜4K频道,#genre#
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-欢笑剧场-4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-CCTV16-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-爱上-4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-超高清电影-4K,http://159.75.85.63:5681/sxg.php
-爱自然-4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-loupe-4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Clarity-4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+北京IPTV 4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+欢笑剧场 4K,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+CCTV 4K,http://159.75.85.63:5679/cctv4k.php
+CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000 bestv
+CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000 bestv
+爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+超高清电影 4K,http://159.75.85.63:5681/sxg.php
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 📺｜BESTV源,#genre#
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
@@ -101,3 +101,6 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 动漫秀场 8M,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
+📺｜测试源,#genre#
+http://210.210.155.35/uq2663/h/h143/index.m3u8
