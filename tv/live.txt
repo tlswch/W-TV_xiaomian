@@ -2,13 +2,17 @@
 📺｜4K频道,#genre#
 北京IPTV 4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-欢笑剧场 4K,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-CCTV 4K,http://159.75.85.63:5679/cctv4k.php
-CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000 bestv
-CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000 bestv
-爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8$4K源
+欢笑剧场 4K,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000$BESTV源
+欢笑剧场 4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8$爱尚源
+
+CCTV 4K,http://159.75.85.63:5679/cctv4k.php$爱尚源
+CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000$BESTV源
+CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8$4K源
+CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000$BESTV源
+CCTV16 4K,https://live.v1.mk/aishang/cctv164k$爱尚源
+爱上 4K,https://live.v1.mk/aishang/as4k$爱尚源
+爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8$4K源
 超高清电影 4K,http://159.75.85.63:5681/sxg.php
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -102,6 +106,67 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 
-📺｜测试源,#genre#
-测试,http://210.210.155.35/uq2663/h/h143/index.m3u8
-清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+📺｜爱尚源,#genre#
+CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
+CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
+CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
+CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
+CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
+CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
+CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
+CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
+CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
+CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
+CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
+CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
+CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
+CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
+CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
+CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
+CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
+CGTN,https://live.v1.mk/aishang/cgtnhd
+湖南卫视,https://live.v1.mk/aishang/hunwshd
+浙江卫视,https://live.v1.mk/aishang/zjwshd
+东方卫视,https://live.v1.mk/aishang/dfwshd
+江苏卫视,https://live.v1.mk/aishang/jswshd
+北京卫视,https://live.v1.mk/aishang/bjwshd
+深圳卫视,https://live.v1.mk/aishang/szwshd
+山东卫视,https://live.v1.mk/aishang/sdwshd
+广东卫视,https://live.v1.mk/aishang/gdwshd
+安徽卫视,https://live.v1.mk/aishang/ahwshd
+东南卫视,https://live.v1.mk/aishang/dnwshd
+天津卫视,https://live.v1.mk/aishang/tjwshd
+重庆卫视,https://live.v1.mk/aishang/cqws
+湖北卫视,https://live.v1.mk/aishang/hubwshd
+四川卫视,https://live.v1.mk/aishang/scws
+河南卫视,https://live.v1.mk/aishang/hnws
+陕西卫视,https://live.v1.mk/aishang/sxws
+吉林卫视,https://live.v1.mk/aishang/jlws
+云南卫视,https://live.v1.mk/aishang/ynws
+广西卫视,https://live.v1.mk/aishang/gxws
+江西卫视,https://live.v1.mk/aishang/jxws
+黑龙江卫视,https://live.v1.mk/aishang/hljwshd
+河北卫视,https://live.v1.mk/aishang/hbwshd
+青海卫视,https://live.v1.mk/aishang/qhws
+贵州卫视,https://live.v1.mk/aishang/gzwshd
+西藏卫视,https://live.v1.mk/aishang/xzws
+甘肃卫视,https://live.v1.mk/aishang/gsws
+新疆卫视,https://live.v1.mk/aishang/xjws
+厦门卫视,https://live.v1.mk/aishang/xmws
+内蒙古卫视,https://live.v1.mk/aishang/nmws
+CHC动作电影,https://live.v1.mk/aishang/chcdzdy
+CHC高清电影,https://live.v1.mk/aishang/chcgqdy
+CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
+中国教育,https://live.v1.mk/aishang/cetv1hd
+中国教育2,https://live.v1.mk/aishang/cetv2
+中国教育4,https://live.v1.mk/aishang/cetv4
+山东教育卫视,https://live.v1.mk/aishang/sdjy
+金鹰纪实,https://live.v1.mk/aishang/jyjs
+金鹰卡通,https://live.v1.mk/aishang/jykt
+卡酷少儿,https://live.v1.mk/aishang/kkse
+嘉佳卡通,https://live.v1.mk/aishang/jjkt
+新动漫,https://live.v1.mk/aishang/xdm
+
+📺｜秒看源,#genre#
+秒看源,https://42.176.185.28:9901/tsfile/live/live_1005_1_17076890.ts?key=txiptv&key2=17076890
