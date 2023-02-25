@@ -46,8 +46,6 @@
 
 {"key":"csp_Cokemv","name":"可乐｜SP","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Auete","name":"奥特｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_Bd","name":"哔嘀｜SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ_量子","name":"量子｜SP","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/量子影视.json"},
