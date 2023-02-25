@@ -1,22 +1,5 @@
 
-📺｜4K频道,#genre#
-北京IPTV 4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场 4K,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-CCTV 4K,http://159.75.85.63:5679/cctv4k.php
-CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-CCTV16 4K,https://live.v1.mk/aishang/cctv164k
-CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-爱上 4K,https://live.v1.mk/aishang/as4k
-爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-超高清电影 4K,http://159.75.85.63:5681/sxg.php
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-
-📺｜央视频道,#genre#
+央视频道,#genre#
 CCTV-1 综合高清,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1 综合高清,https://live.v1.mk/aishang/cctv1hd
 CCTV-1 综合高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
@@ -89,7 +72,13 @@ CCTV-17 农业高清,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-17 农业高清,https://live.v1.mk/aishang/cctv17hd
 CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 
-📺｜卫视频道,#genre#
+CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
+CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+
+CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+
+
+卫视频道,#genre#
 
 辽宁卫视高清,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
@@ -121,14 +110,8 @@ CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/_
 河北卫视高清,https://live.v1.mk/aishang/hbwshd
 河北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
 
-甘肃卫视高清https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+甘肃卫视高清,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视高清,https://live.v1.mk/aishang/gsws
-
-山西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
-
-陕西卫视高清,https://live.v1.mk/aishang/sxws
-
-青海卫视高清,https://live.v1.mk/aishang/qhws
 
 东方卫视高清,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 东方卫视高清,https://live.v1.mk/aishang/dfwshd
@@ -158,8 +141,8 @@ CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/_
 湖南卫视高清,https://live.v1.mk/aishang/hunwshd
 湖南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 
-湖北卫视高清,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视高清,https://live.v1.mk/aishang/hubwshd
+湖北卫视高清,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
 
 东南卫视高清,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
@@ -193,23 +176,46 @@ CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/_
 海南卫视高清,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
 
-厦门卫视,https://live.v1.mk/aishang/xmws
+山西卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 
-西藏卫视,https://live.v1.mk/aishang/xzws
+陕西卫视标清,https://live.v1.mk/aishang/sxws
 
-新疆卫视,https://live.v1.mk/aishang/xjws
+青海卫视标清,https://live.v1.mk/aishang/qhws
 
-内蒙古卫视,https://live.v1.mk/aishang/nmws
+厦门卫视标清,https://live.v1.mk/aishang/xmws
 
-宁夏卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
+西藏卫视标清,https://live.v1.mk/aishang/xzws
 
-三沙卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
+新疆卫视标清,https://live.v1.mk/aishang/xjws
 
-教育卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
+内蒙古卫视标清,https://live.v1.mk/aishang/nmws
 
-兵团卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
+宁夏卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
 
-📺｜教育频道,#genre#
+三沙卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
+
+教育卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
+
+兵团卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
+
+4K频道,#genre#
+北京IPTV 4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场 4K,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV 4K,http://159.75.85.63:5679/cctv4k.php
+CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV16 4K,https://live.v1.mk/aishang/cctv164k
+CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+爱上 4K,https://live.v1.mk/aishang/as4k
+爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+超高清电影 4K,http://159.75.85.63:5681/sxg.php
+爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
+教育频道,#genre#
 中国教育1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
 中国教育4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
 中国教育1,https://live.v1.mk/aishang/cetv1hd
@@ -217,7 +223,7 @@ CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/_
 中国教育4,https://live.v1.mk/aishang/cetv4
 百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
 
-📺｜少儿频道,#genre#
+少儿频道,#genre#
 宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 炫动卡通,https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
@@ -227,28 +233,28 @@ CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/_
 新动漫,https://live.v1.mk/aishang/xdm
 重庆少儿,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
 
-📺｜体育频道,#genre#
+体育频道,#genre#
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-足球8m,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 魅力足球http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
 
-📺｜游戏频道,#genre#
+游戏频道,#genre#
 游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
 游戏风云,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
 电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
 
-📺｜电影频道,#genre#
+电影频道,#genre#
+CHC动作电影,https://live.v1.mk/aishang/chcdzdy
+CHC高清电影,https://live.v1.mk/aishang/chcgqdy
+CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-CHC动作电影,https://live.v1.mk/aishang/chcdzdy
-CHC8m电影,https://live.v1.mk/aishang/chcgqdy
-CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 
-📺｜电视剧频道,#genre#
+电视剧频道,#genre#
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
@@ -258,22 +264,22 @@ CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/de
 都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 都市剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 
-📺｜综艺频道,#genre#
+综艺频道,#genre#
 热门综艺,https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
 
-📺｜动漫频道,#genre#
+动漫频道,#genre#
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 
-📺｜综合频道,#genre#
+综合频道,#genre#
 快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
 金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 金鹰纪实,https://live.v1.mk/aishang/jyjs
 生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
 全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-陶瓷8m,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+陶瓷高清,https://live.v1.mk/api/bestv.php?id=taocihd/8000000
 纪实科教,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
 茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
 法治天地,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
@@ -282,17 +288,17 @@ CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/de
 车迷频道,http://bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8
 求索纪录,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
 
-📺｜音乐频道,#genre#
+音乐频道,#genre#
 CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
 
-📺｜戏曲频道,#genre#
+戏曲频道,#genre#
 戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
 七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
 
-📺｜养生频道,#genre#
+养生频道,#genre#
 健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
 
-📺｜上海综合,#genre#
+上海综合,#genre#
 上海第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 上视新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
@@ -301,10 +307,10 @@ CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/de
 上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
 东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 
-📺｜山东综合,#genre#
+山东综合,#genre#
 山东教育卫视,https://live.v1.mk/aishang/sdjy
 
-📺｜重庆综合,#genre#
+重庆综合,#genre#
 重庆新闻,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
 重庆科教,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
 重庆影视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
@@ -312,7 +318,7 @@ CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/de
 重庆时尚,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
 重庆新农村,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
 
-📺｜国际频道,#genre#
+国际频道,#genre#
 CGTN,https://live.v1.mk/aishang/cgtnhd
 
 
