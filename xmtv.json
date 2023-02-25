@@ -28,11 +28,9 @@
 
 {"key":"AppTT","name":"图图｜SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
-{"key":"csp_AppTT","name":"图图2｜SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
-
 {"key":"csp_DiDuan","name":"低端｜SP","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_Slsp","name":"石榴｜SP","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/石榴电影.json"},
+{"key":"csp_Slsp","name":"石榴｜SP","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/石榴.json"},
 
 {"key":"csp_kuaikan","name":"快看｜SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -40,7 +38,7 @@
 
 {"key":"csp_Auete","name":"Auete｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Voflix","name":"Voflix｜SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Voflix.json"},
+{"key":"csp_Voflix","name":"Voflix｜SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/voflix.json"},
 
 {"key":"csp_Nmys","name":"农民｜SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
