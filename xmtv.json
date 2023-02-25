@@ -12,9 +12,9 @@
 
 "sites":[
 
-{"key":"dr_豆瓣","name":"微信公众号：免软资源","type":0,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"微信公众号：免软资源","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/js/豆瓣.js"},
 
-{"key":"T4_douban","name":"🔍｜影视推荐｜T4","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"影视推荐｜T4","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"YiSo","name":"易搜｜4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://ali.饭太硬.ml/token"},
 
@@ -96,8 +96,9 @@
 
 {"key":"csp_trj","name":"唐人街｜墙外","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 
+{"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
