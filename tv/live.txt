@@ -11,187 +11,187 @@ CCTV16 4K,https://live.v1.mk/aishang/cctv164k
 CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
 爱上 4K,https://live.v1.mk/aishang/as4k
 爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-超8m电影 4K,http://159.75.85.63:5681/sxg.php
+超高清电影 4K,http://159.75.85.63:5681/sxg.php
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 📺｜央视频道,#genre#
-CCTV-1 综合8m,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV-1 综合8m,https://live.v1.mk/aishang/cctv1hd
-CCTV-1 综合8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-1 综合高清,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV-1 综合高清,https://live.v1.mk/aishang/cctv1hd
+CCTV-1 综合高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 
-CCTV-2 财经8m,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV-2 财经8m,https://live.v1.mk/aishang/cctv2hd
-CCTV-2 财经8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-2 财经高清,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV-2 财经高清,https://live.v1.mk/aishang/cctv2hd
+CCTV-2 财经高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
 
-CCTV-3 综艺8m,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV-3 综艺8m,https://live.v1.mk/aishang/cctv3hd
-CCTV-3 综艺8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-3 综艺高清,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+CCTV-3 综艺高清,https://live.v1.mk/aishang/cctv3hd
+CCTV-3 综艺高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
 
-CCTV-4 国际8m,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV-4 国际8m,https://live.v1.mk/aishang/cctv4hd
-CCTV-4 国际8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV-4 国际高清,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV-4 国际高清,https://live.v1.mk/aishang/cctv4hd
+CCTV-4 国际高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
 
-CCTV-5 体育8m,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-CCTV-5 体育8m,https://live.v1.mk/aishang/cctv5hd
-CCTV-5 体育8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV-5 体育高清,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+CCTV-5 体育高清,https://live.v1.mk/aishang/cctv5hd
+CCTV-5 体育高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 
-CCTV5+ 体育8m,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
-CCTV5+ 体育8m,https://live.v1.mk/aishang/cctv5p
-CCTV5+ 体育8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV5+ 体育高清,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV5+ 体育高清,https://live.v1.mk/aishang/cctv5p
+CCTV5+ 体育高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 
-CCTV-6 电影8m,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-CCTV-6 电影8m,https://live.v1.mk/aishang/cctv6hd
-CCTV-6 电影8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV-6 电影高清,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV-6 电影高清,https://live.v1.mk/aishang/cctv6hd
+CCTV-6 电影高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
 
-CCTV-7 军事8m,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV-7 军事8m,https://live.v1.mk/aishang/cctv7hd
-CCTV-7 军事8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV-7 军事高清,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV-7 军事高清,https://live.v1.mk/aishang/cctv7hd
+CCTV-7 军事高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
 
-CCTV-8 电视剧8m,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
-CCTV-8 电视剧8m,https://live.v1.mk/aishang/cctv8hd
-CCTV-8 电视剧8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV-8 电视剧高清,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV-8 电视剧高清,https://live.v1.mk/aishang/cctv8hd
+CCTV-8 电视剧高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 
-CCTV-9 纪录8m,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
-CCTV-9 纪录8m,https://live.v1.mk/aishang/cctv9hd2
-CCTV-9 纪录8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV-9 纪录高清,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+CCTV-9 纪录高清,https://live.v1.mk/aishang/cctv9hd2
+CCTV-9 纪录高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 
-CCTV-10 科教8m,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
-CCTV-10 科教8m,https://live.v1.mk/aishang/cctv10hd
-CCTV-10 科教8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV-10 科教高清,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+CCTV-10 科教高清,https://live.v1.mk/aishang/cctv10hd
+CCTV-10 科教高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
 
-CCTV-11 戏曲8m,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
-CCTV-11 戏曲8m,https://live.v1.mk/aishang/cctv11hd
-CCTV-11 戏曲8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV-11 戏曲高清,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+CCTV-11 戏曲高清,https://live.v1.mk/aishang/cctv11hd
+CCTV-11 戏曲高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
 
-CCTV-12 社会8m,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV-12 社会8m,https://live.v1.mk/aishang/cctv12hd
-CCTV-12 社会8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV-12 社会高清,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+CCTV-12 社会高清,https://live.v1.mk/aishang/cctv12hd
+CCTV-12 社会高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 
-CCTV-13 新闻8m,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV-13 新闻8m,https://live.v1.mk/aishang/cctv13hd
-CCTV-13 新闻8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV-13 新闻高清,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV-13 新闻高清,https://live.v1.mk/aishang/cctv13hd
+CCTV-13 新闻高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
 
-CCTV-14 少儿8m,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-CCTV-14 少儿8m,https://live.v1.mk/aishang/cctv14hd
-CCTV-14 少儿8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV-14 少儿高清,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+CCTV-14 少儿高清,https://live.v1.mk/aishang/cctv14hd
+CCTV-14 少儿高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
 
-CCTV-15 音乐8m,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
-CCTV-15 音乐8m,https://live.v1.mk/aishang/cctv15hd
-CCTV-15 音乐8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV-15 音乐高清,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+CCTV-15 音乐高清,https://live.v1.mk/aishang/cctv15hd
+CCTV-15 音乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 
-CCTV-16 奥林8m,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16 奥林8m,https://live.v1.mk/aishang/cctv16hd
-CCTV-16 奥林8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV-16 奥林高清,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV-16 奥林高清,https://live.v1.mk/aishang/cctv16hd
+CCTV-16 奥林高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
 
-CCTV-17 农业8m,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-CCTV-17 农业8m,https://live.v1.mk/aishang/cctv17hd
-CCTV-17 农业8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+CCTV-17 农业高清,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+CCTV-17 农业高清,https://live.v1.mk/aishang/cctv17hd
+CCTV-17 农业高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 
 📺｜卫视频道,#genre#
 
-辽宁卫视8m,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-辽宁卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
+辽宁卫视高清,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+辽宁卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
 
-吉林卫视8m,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-吉林卫视8m,https://live.v1.mk/aishang/jlws
-吉林卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
+吉林卫视高清,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+吉林卫视高清,https://live.v1.mk/aishang/jlws
+吉林卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
 
-黑龙江卫视8m,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
-黑龙江卫视8m,https://live.v1.mk/aishang/hljwshd
-黑龙江卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+黑龙江卫视高清,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+黑龙江卫视高清,https://live.v1.mk/aishang/hljwshd
+黑龙江卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
 
-北京卫视8m,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
-北京卫视8m,https://live.v1.mk/aishang/bjwshd
-北京卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
+北京卫视高清,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+北京卫视高清,https://live.v1.mk/aishang/bjwshd
+北京卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
 
-天津卫视8m,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
-天津卫视8m,https://live.v1.mk/aishang/tjwshd
-天津卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
+天津卫视高清,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+天津卫视高清,https://live.v1.mk/aishang/tjwshd
+天津卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
 
-山东卫视8m,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
-山东卫视8m,https://live.v1.mk/aishang/sdwshd
+山东卫视高清,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+山东卫视高清,https://live.v1.mk/aishang/sdwshd
 
-河南卫视8m,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
-河南卫视8m,https://live.v1.mk/aishang/hnws
-河南卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+河南卫视高清,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+河南卫视高清,https://live.v1.mk/aishang/hnws
+河南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 
-河北卫视8m,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
-河北卫视8m,https://live.v1.mk/aishang/hbwshd
-河北卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
+河北卫视高清,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+河北卫视高清,https://live.v1.mk/aishang/hbwshd
+河北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
 
-甘肃卫视8m,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
-甘肃卫视8m,https://live.v1.mk/aishang/gsws
+甘肃卫视高清https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+甘肃卫视高清,https://live.v1.mk/aishang/gsws
 
-山西卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
+山西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 
-陕西卫视8m,https://live.v1.mk/aishang/sxws
+陕西卫视高清,https://live.v1.mk/aishang/sxws
 
-青海卫视8m,https://live.v1.mk/aishang/qhws
+青海卫视高清,https://live.v1.mk/aishang/qhws
 
-东方卫视8m,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
-东方卫视8m,https://live.v1.mk/aishang/dfwshd
-东方卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
+东方卫视高清,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+东方卫视高清,https://live.v1.mk/aishang/dfwshd
+东方卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
 
-江苏卫视8m,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
-江苏卫视8m,https://live.v1.mk/aishang/jswshd
-江苏卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
+江苏卫视高清,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+江苏卫视高清,https://live.v1.mk/aishang/jswshd
+江苏卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 
-浙江卫视8m,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
-浙江卫视8m,https://live.v1.mk/aishang/zjwshd
-浙江卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
+浙江卫视高清,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+浙江卫视高清,https://live.v1.mk/aishang/zjwshd
+浙江卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
 
-安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
-安徽卫视,https://live.v1.mk/aishang/ahwshd
-安徽卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
+安徽卫视高清,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+安徽卫视高清,https://live.v1.mk/aishang/ahwshd
+安徽卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
 
-重庆卫视8m,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-重庆卫视8m,https://live.v1.mk/aishang/cqws
-重庆卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
+重庆卫视高清,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+重庆卫视高清,https://live.v1.mk/aishang/cqws
+重庆卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
 
-江西卫视8m,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
-江西卫视8m,https://live.v1.mk/aishang/jxws
-江西卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
+江西卫视高清,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+江西卫视高清,https://live.v1.mk/aishang/jxws
+江西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
 
-湖南卫视8m,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
-湖南卫视8m,https://live.v1.mk/aishang/hunwshd
-湖南卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
+湖南卫视高清,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+湖南卫视高清,https://live.v1.mk/aishang/hunwshd
+湖南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 
-湖北卫视8m,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
-湖北卫视8m,https://live.v1.mk/aishang/hubwshd
-湖北卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
+湖北卫视高清,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
+湖北卫视高清,https://live.v1.mk/aishang/hubwshd
+湖北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
 
-东南卫视8m,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
-东南卫视8m,https://live.v1.mk/aishang/dnwshd
-东南卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
+东南卫视高清,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+东南卫视高清,https://live.v1.mk/aishang/dnwshd
+东南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
 
-四川卫视8m,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-四川卫视8m,https://live.v1.mk/aishang/scws
-四川卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
+四川卫视高清,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+四川卫视高清,https://live.v1.mk/aishang/scws
+四川卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
 
-云南卫视8m,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-云南卫视8m,https://live.v1.mk/aishang/ynws
-云南卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+云南卫视高清,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+云南卫视高清,https://live.v1.mk/aishang/ynws
+云南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
 
-贵州卫视8m,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
-贵州卫视8m,https://live.v1.mk/aishang/gzwshd
-贵州卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
+贵州卫视高清,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+贵州卫视高清,https://live.v1.mk/aishang/gzwshd
+贵州卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
 
-广西卫视8m,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
-广西卫视8m,https://live.v1.mk/aishang/gxws
-广西卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+广西卫视高清,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+广西卫视高清,https://live.v1.mk/aishang/gxws
+广西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
 
-广东卫视8m,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
-广东卫视8m,https://live.v1.mk/aishang/gdwshd
-广东卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
+广东卫视高清,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+广东卫视高清,https://live.v1.mk/aishang/gdwshd
+广东卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 
-深圳卫视8m,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
-深圳卫视8m,https://live.v1.mk/aishang/szwshd
-深圳卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
+深圳卫视高清,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+深圳卫视高清,https://live.v1.mk/aishang/szwshd
+深圳卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
 
-海南卫视8m,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-海南卫视8m,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
+海南卫视高清,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+海南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
 
 厦门卫视,https://live.v1.mk/aishang/xmws
 
