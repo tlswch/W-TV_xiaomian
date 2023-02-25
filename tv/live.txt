@@ -54,9 +54,9 @@ CCTV-8 电视剧高清,https://live.v1.mk/api/bestv.php?id=cctv8hd高清/8000000
 CCTV-8 电视剧高清,https://live.v1.mk/aishang/cctv8hd
 CCTV-8 电视剧高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 
-CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd高清/8000000
-CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
-CCTV-9,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV-9 纪录高清,https://live.v1.mk/api/bestv.php?id=cctv9hd高清/8000000
+CCTV-9 纪录高清,https://live.v1.mk/aishang/cctv9hd2
+CCTV-9 纪录高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 
 CCTV-10 科教高清,https://live.v1.mk/api/bestv.php?id=cctv10hd高清/8000000
 CCTV-10 科教高清,https://live.v1.mk/aishang/cctv10hd
