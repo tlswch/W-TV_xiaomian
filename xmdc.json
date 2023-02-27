@@ -25,16 +25,8 @@
 "name":"老刘备接口"
 },
 {
-"url":"http://js.134584.xyz/json/pp87.json",
-"name":"白嫖接口"
-},
-{
 "url":"https://hutool.ml/tang",
 "name":"唐三接口"
-},
-{
-"url":"http://byyds.top/w.txt",
-"name":"分享君接口"
 },
 {
 "url":"http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
@@ -51,10 +43,6 @@
 {
 "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
 "name":"小苹果接口"
-},
-{
-"url":"https://gitlab.com/duomv/duo/-/raw/main/v.json",
-"name":"多多接口"
 },
 {
 "url":"http://home.jundie.top:81/top98.json",
