@@ -143,19 +143,19 @@ CCTV第一剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/
 CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
 
 卫视频道,#genre#
-辽宁卫视高清,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+辽宁卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 辽宁卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f//index.m3u8
 辽宁卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225735/index.m3u8
 辽宁卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
 辽宁卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls
 辽宁卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
 
-吉林卫视高清,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+吉林卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 吉林卫视高清,https://live.v1.mk/aishang/jlws
 吉林卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
 吉林卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225680/index.m3u8
 
-黑龙江卫视高清,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+黑龙江卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 黑龙江卫视高清,https://live.v1.mk/aishang/hljwshd
 黑龙江卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
 黑龙江卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225690/index.m3u8
@@ -163,7 +163,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 黑龙江卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 
-北京卫视高清,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+北京卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 北京卫视高清,https://live.v1.mk/aishang/bjwshd
 北京卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
 北京卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225674/index.m3u8
@@ -171,7 +171,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 北京卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
 
-天津卫视高清,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+天津卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 天津卫视高清,https://live.v1.mk/aishang/tjwshd
 天津卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
 天津卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225698/index.m3u8
@@ -179,29 +179,29 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 天津卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
 天津卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
 
-山东卫视高清,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+山东卫视高清,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
 山东卫视高清,https://live.v1.mk/aishang/sdwshd
 山东卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225697/index.m3u8
 山东卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
 山东卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
 山东卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
 
-河南卫视高清,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+河南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 河南卫视高清,https://live.v1.mk/aishang/hnws
 河南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 河南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 
-河北卫视高清,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+河北卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
 河北卫视高清,https://live.v1.mk/aishang/hbwshd
 河北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
 河北卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 河北卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 
-甘肃卫视高清,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+甘肃卫视高清,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8
 甘肃卫视高清,https://live.v1.mk/aishang/gsws
 甘肃卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225724/index.m3u8
 
-东方卫视高清,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+东方卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 东方卫视高清,https://live.v1.mk/aishang/dfwshd
 东方卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
 东方卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225659/index.m3u8
@@ -209,7 +209,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 东方卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
 
-江苏卫视高清,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+江苏卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视高清,https://live.v1.mk/aishang/jswshd
 江苏卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 江苏卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225702/index.m3u8
@@ -217,21 +217,21 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 江苏卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
 江苏卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
 
-浙江卫视高清,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+浙江卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视高清,https://live.v1.mk/aishang/zjwshd
 浙江卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
 浙江卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225744/index.m3u8
 浙江卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
 浙江卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
 
-安徽卫视高清,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+安徽卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
 安徽卫视高清,https://live.v1.mk/aishang/ahwshd
 安徽卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
 安徽卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225691/index.m3u8
 安徽卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
 安徽卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 
-重庆卫视高清,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+重庆卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视高清,https://live.v1.mk/aishang/cqws
 重庆卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
 重庆卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225734/index.m3u8
@@ -239,7 +239,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 重庆卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 
-江西卫视高清,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+江西卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
 江西卫视高清,https://live.v1.mk/aishang/jxws
 江西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
 江西卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225746/index.m3u8
@@ -247,7 +247,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 江西卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
 江西卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 
-湖南卫视高清,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+湖南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 湖南卫视高清,https://live.v1.mk/aishang/hunwshd
 湖南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 湖南卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225704/index.m3u8
@@ -255,30 +255,30 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 湖南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
 
+湖北卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 湖北卫视高清,https://live.v1.mk/aishang/hubwshd
-湖北卫视高清,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f//index.m3u8
 湖北卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225740/index.m3u8
 湖北卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
 湖北卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
 湖北卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
 
-东南卫视高清,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+东南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东南卫视高清,https://live.v1.mk/aishang/dnwshd
 东南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
 东南卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225657/index.m3u8
 东南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 东南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
 
-四川卫视高清,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+四川卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 四川卫视高清,https://live.v1.mk/aishang/scws
 四川卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f//index.m3u8
 四川卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225733/index.m3u8
 四川卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 
-云南卫视高清,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
-云南卫视高清,https://live.v1.mk/aishang/ynws
 云南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+云南卫视高清,https://live.v1.mk/aishang/ynws
+云南卫视高清,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
 云南卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225664/index.m3u8
 
 贵州卫视高清,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
@@ -287,13 +287,13 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 贵州卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225728/index.m3u8
 贵州卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 
-广西卫视高清,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+广西卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 广西卫视高清,https://live.v1.mk/aishang/gxws
 广西卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
 广西卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225731/index.m3u8
 广西卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 
-广东卫视高清,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+广东卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 广东卫视高清,https://live.v1.mk/aishang/gdwshd
 广东卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 广东卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225742/index.m3u8
@@ -301,7 +301,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 广东卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
 广东卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
 
-深圳卫视高清,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+深圳卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 深圳卫视高清,https://live.v1.mk/aishang/szwshd
 深圳卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f//index.m3u8
 深圳卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225741/index.m3u8
@@ -309,21 +309,25 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 深圳卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
 深圳卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 
-海南卫视高清,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+海南卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 海南卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
 海南卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 
+山西卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 山西卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 
 陕西卫视标清,https://live.v1.mk/aishang/sxws
 陕西卫视标清,http://39.134.115.163:8080/TVOD/88888910/224/3221225729/index.m3u8
 
+青海卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 青海卫视标清,https://live.v1.mk/aishang/qhws
 
 厦门卫视标清,https://live.v1.mk/aishang/xmws
 
+西藏卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
 西藏卫视标清,https://live.v1.mk/aishang/xzws
 
+新疆卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
 新疆卫视标清,https://live.v1.mk/aishang/xjws
 
 内蒙古卫视标清,https://live.v1.mk/aishang/nmws
@@ -331,10 +335,13 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 
 宁夏卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
 
+三沙卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
 三沙卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sanshaSD/__op/default/__f//index.m3u8
 
+教育卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 教育卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f//index.m3u8
 
+兵团卫视标清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
 兵团卫视标清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bingtuanSD/__op/default/__f//index.m3u8
 
 4 K频道,#genre#
@@ -343,9 +350,9 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 欢笑剧场 4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 欢笑剧场 4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-CCTV 4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV 4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV 4K,http://159.75.85.63:5679/cctv4k.php
-CCTV16 4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV16 4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16 4K,https://live.v1.mk/aishang/cctv164k
 CCTV16 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
 爱  上 4K,https://live.v1.mk/aishang/as4k
@@ -390,13 +397,6 @@ Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef
 锦州新闻综合,http://stream.jzgbdst.cn/1/sd/live.m3u8
 
 地方综合,#genre#
-上海第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-上视新闻,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
-上海纪实,https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
-上视外语,https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
-上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
-东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 北京财经,https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
 北京生活,https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 北京新闻,https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
@@ -967,7 +967,6 @@ NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212256
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
 爱奇艺,#genre#
-抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
 军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
 国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
@@ -1047,13 +1046,10 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 空中课堂_高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 金色学堂,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/jinse/__op/default/__f//index.m3u8
 早期教育,http://bytedance.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8
-中国教育1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
 中国教育1,https://live.v1.mk/aishang/cetv1hd
 中国教育1,http://39.134.115.163:8080/TVOD/88888910/224/3221225661/index.m3u8
 中国教育2,https://live.v1.mk/aishang/cetv2
-中国教育4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
 中国教育4,https://live.v1.mk/aishang/cetv4
-百变课堂,https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
 
 少儿频道,#genre#
 宝宝动画,https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
@@ -1175,7 +1171,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 游戏频道,#genre#
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电竞,http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
-游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
 游戏风云,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f//index.m3u8
 游戏风云,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/2300000/mnf.m3u8
 电竞天堂,https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
@@ -1205,9 +1200,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-星光影院,https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-全球大片,https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
 神乐影片2,http://epg.112114.xyz/douyu/85894
 周末影院,http://epg.112114.xyz/douyu/3637765
@@ -1221,11 +1213,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 电视剧频道,#genre#
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f//index.m3u8
 CCTV风云剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
-欢笑剧场,https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-谍战剧场,https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-热门剧场,https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-都市剧场,https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 都市剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -1257,8 +1244,6 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 动漫频道,#genre#
 黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
-青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/__f//index.m3u8
 
 求索综合,#genre#
@@ -1267,15 +1252,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-快乐垂钓,https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
-金鹰纪实,https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 金鹰纪实,https://live.v1.mk/aishang/jyjs
-生活时尚,https://live.v1.mk/api/bestv.php?id=shss8m/8000000
-全纪实,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
-看天下精选,https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-纪实科教,https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
-茶频道,https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
-法治天地,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 书画频道,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
 摄影频道,http://bytedance.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f//index.m3u8
 车迷频道,http://bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index.m3u8
@@ -1312,24 +1289,16 @@ DOXTV,http://bytedance.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//i
 酉阳综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/youyang/__op/default/__f//index.m3u8
 重广融媒,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqrongmei/__op/default/__f//index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV怡伴健康,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
 音乐频道,#genre#
 CCTV风云音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
-CCTV-15 音乐高清,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 CCTV-15 音乐高清,https://live.v1.mk/aishang/cctv15hd
 CCTV-15 音乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
 CCTV-15 音乐高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225639/index.m3u8
 CCTV-15 音乐高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-
-戏曲频道,#genre#
-戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
-七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-
-养生频道,#genre#
-健康养生,https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-NewTV怡伴健康,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
 纪录片频道,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
