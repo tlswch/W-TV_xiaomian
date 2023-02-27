@@ -197,8 +197,8 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 河北卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 河北卫视高清,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 
-甘肃卫视高清,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8
 甘肃卫视高清,https://live.v1.mk/aishang/gsws
+甘肃卫视高清,http://125.210.152.19:9120/live/hszx-gstv-h264.m3u8
 甘肃卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225724/index.m3u8
 
 东方卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
@@ -281,7 +281,7 @@ CCTV兵器科技,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/de
 云南卫视高清,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
 云南卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225664/index.m3u8
 
-贵州卫视高清,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+贵州卫视高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
 贵州卫视高清,https://live.v1.mk/aishang/gzwshd
 贵州卫视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f//index.m3u8
 贵州卫视高清,http://39.134.115.163:8080/TVOD/88888910/224/3221225728/index.m3u8
