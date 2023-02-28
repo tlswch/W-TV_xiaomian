@@ -24,6 +24,8 @@
 
 {"key":"csp_Yht","name":"野荷塘｜SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 
+{ "key": "csp_sp_龙门影视","name": "龙门｜SP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod","jar":"http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"},
+
 {"key":"csp_Kunyu77","name":"七七｜SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
 
 {"key":"csp_Czsapp","name":"厂长｜SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
