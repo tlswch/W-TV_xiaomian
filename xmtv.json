@@ -30,21 +30,21 @@
 
 {"key":"csp_Czsapp","name":"厂长｜SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "dr_饭团","name": "饭团｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/饭团.js"},
+//{"key": "dr_饭团","name": "饭团｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/饭团.js"},
 
-{"key": "dr_布雷蓝光","name":"布雷｜SP","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "http://101.34.67.237/js/布雷蓝光.js"},
+{"key":"BuLei","name":"布雷｜SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
 
-{"key":"csp_Cokemv","name":"Cokemv｜SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"可乐｜SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Tutu_ spider","name":"图图｜SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2","ext":"http://124.248.66.89:7788/"},
 
 {"key":"csp_DiDuan","name":"低端｜SP","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_Slsp","name":"石榴｜SP","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/slsp.json"},
+//{"key":"csp_Slsp","name":"石榴｜SP","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/slsp.json"},
 
 {"key":"csp_kuaikan","name":"快看｜SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xBPQ_LIBVIO","name":"LIBVIO｜SP","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/LIBVIO.json"},
+{"key":"LIBVIO","name":" LIBVIO｜XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dmtv.ml/mao/XB/LIBVIO.json"},
 
 {"key":"csp_Auete","name":"Auete｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -52,17 +52,13 @@
 
 {"key":"csp_Nmys","name":"农民｜SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
-{"key":"csp_panghu","name":"胖虎｜SP","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xBPQ/胖虎影视.json"},
-
-{"key":"csp_Cokemv","name":"可乐｜SP","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_panghu","name": "胖虎｜SP","type": "3","api": "csp_Panghu","searchable": "1","quickSearch": "1","filterable": "1","jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E8%82%A5%E7%8C%AB.jar"},
 
 {"key":"csp_Bd","name":"哔嘀｜SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "dr_量子影视","name": "量子｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/量子影视.js"},
+//{"key": "dr_量子影视","name": "量子｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/量子影视.js"},
 
-{"key": "dr_真不卡","name": "真不卡｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/真不卡.js"},
-
-{"key": "csp_新视觉","name": "新视觉｜SP","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://101.34.67.237/files/新视觉.jar"},
+//{"key": "csp_新视觉","name": "新视觉｜SP","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://101.34.67.237/files/新视觉.jar"},
 
 {"key":"csp_Zxzj","name":"在线之家｜SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
