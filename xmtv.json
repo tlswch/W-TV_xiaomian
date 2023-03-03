@@ -36,9 +36,9 @@
 
 {"key":"csp_Cokemv","name":"可乐｜SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./xBPQ/乐猪影视.json"},
+{"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./xBPQ/乐猪影视.json"},
 
-{"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./FMXBPQ/乐猪.json"},
+//{"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./FMXBPQ/乐猪.json"},
 
 {"key":"Tutu_ spider","name":"图图｜SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2","ext":"http://124.248.66.89:7788/"},
 
