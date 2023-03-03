@@ -1229,19 +1229,16 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-东方影视 8M,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
 镇海先锋影视,http://pluslive.zhxww.net/channel2/sd/live.m3u8
 
 电视剧频道,#genre#
-都市剧场,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
 古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 家庭剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
 精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
 精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
