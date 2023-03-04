@@ -40,6 +40,8 @@
 
 {"key": "csp_panghu","name": "胖虎｜SP","type": "3","api": "csp_Panghu","searchable": "1","quickSearch": "1","filterable": "1","jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E8%82%A5%E7%8C%AB.jar"},
 
+{"key": "百影视频","name": "百影视频","type": 3,"api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0,"ext": "http://47.104.99.175"},
+
 {"key":"csp_Bd","name":"哔嘀｜SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_kuaikan","name":"快看｜SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
