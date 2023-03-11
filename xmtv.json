@@ -32,13 +32,21 @@
 
 {"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./xBPQ/乐猪影视.json"},
 
-//{"key": "Lezhu","name": "乐猪｜SP","api": "csp_XBPQ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./FMXBPQ/乐猪.json"},
-
 {"key":"csp_Nmys","name":"农民｜SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
+
+{"key":"csp_明明影视","name":"明明｜SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_奥特影视","name":"奥特｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"drpy_js_子子影视","name":"子子｜SP","type":3,"api":"https://gitee.com/bin-shao/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/bin-shao/tvbox/raw/master/js/DZ子子影视.js"},
 
 {"key":"csp_fantuan","name":"饭团｜SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
 {"key": "csp_panghu","name": "胖虎｜SP","type": "3","api": "csp_Panghu","searchable": "1","quickSearch": "1","filterable": "1","jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E8%82%A5%E7%8C%AB.jar"},
+
+{"key":"非凡","name":"非凡｜SP","type":1,"api":"http://www.ffzy.tv/api.php/provide/vod/","searchable": 1,"filterable":0,"changeable":1,"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"] },
+
+{"key":"量子","name":"量子｜SP","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"changeable":1,"categories": ["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","大陆综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片"] },
 
 {"key": "百影视频","name": "百影｜SP","type": 3,"api": "csp_MianHua","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0,"ext": "http://47.104.99.175","jar":"./jar/qj230217.jar"},
 
@@ -60,17 +68,17 @@
 
 {"key":"csp_Auete","name":"Auete｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Voflix","name":"Voflix｜SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/voflix.json"},
+{"key":"csp_Vof影视","name":"VOF｜SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/bin-shao/tvbox/raw/master/jar/FTYJAR.jar"},
 
-{"key":"Tutu_ spider","name":"图图｜SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2","ext":"http://124.248.66.89:7788/"},
+{"key":"csp_AppTT","name":"图图｜SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
-{"key":"BuLei","name":"布雷｜SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc","jar":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
+{"key":"csp_布雷影视","name":"布雷｜SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
 
 {"key":"csp_Cokemv","name":"可乐｜SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Slsp","name":"石榴｜SP","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/slsp.json"},
+{"key":"csp_石榴电影","name":"石榴｜SP","type":3,"api":"csp_ShiLiuDY","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://gitee.com/bin-shao/tvbox/raw/master/jar/QJJAR.jar"},
 
-{"key": "dr_量子影视","name": "量子｜SP","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/量子影视.js","jar":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"},
+{"key":"drpy_js_量子影视","name":"量子影院","type":3,"api":"https://gitee.com/bin-shao/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/bin-shao/tvbox/raw/master/js/DZ量子影视.js"},
 
 {"key":"csp_Bttoo","name":"两个BT｜SP","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
