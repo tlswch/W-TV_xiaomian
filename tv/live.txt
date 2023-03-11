@@ -1,3 +1,5 @@
+公众号：免软资源,#genre#
+辽宁卫视,http://39.184.224.99:9080/newlive/live/hls/29/live.m3u8
 
 央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
