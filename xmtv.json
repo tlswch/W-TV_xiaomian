@@ -38,6 +38,8 @@
 
 {"key":"csp_奥特影视","name":"奥特｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_555","name":"三五｜SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+
 {"key":"drpy_js_子子影视","name":"子子｜SP","type":3,"api":"https://gitee.com/bin-shao/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/bin-shao/tvbox/raw/master/js/DZ子子影视.js"},
 
 {"key":"csp_fantuan","name":"饭团｜SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
